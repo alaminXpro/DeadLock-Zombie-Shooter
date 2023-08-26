@@ -77,6 +77,6 @@ Have questions or feedback? Feel free to reach out to us:
 - Harique Rahman Jaif
   - LinkedIn: [Harique Rahman Jaif LinkedIn](https://www.linkedin.com/in/harique-rahman-jaif/)
 - Julker Nayeen Karim
-  - LinkedIn: [Julker Nayeen Karim LinkedIn](#) 
+  - LinkedIn: [Julker Nayeen Karim LinkedIn](#)
 We appreciate your support and hope you enjoy playing DeadLock Zombie Shooter!
 
