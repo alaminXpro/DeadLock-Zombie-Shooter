@@ -34,13 +34,12 @@ Your objective is to protect humanity by fending off waves of zombies. As the pr
 
 ## Team Members
 
-- MD. AL AMIN (Main Developer)
+- MD. AL AMIN (Team Leader)
   - LinkedIn: [MD. AL AMIN LinkedIn](https://www.linkedin.com/in/alaminxpro/)
 - Harique Rahman Jaif
   - LinkedIn: [Harique Rahman Jaif LinkedIn](https://www.linkedin.com/in/harique-rahman-jaif/)
 - Julker Nayeen Karim
-  - LinkedIn: [Julker Nayeen Karim LinkedIn](#)  <!-- You can add the LinkedIn profile link here -->
-
+  - LinkedIn: [Julker Nayeen Karim LinkedIn](#)
 ## Technologies Used
 
 - C/C++ Programming Language
@@ -52,11 +51,11 @@ Your objective is to protect humanity by fending off waves of zombies. As the pr
 To play DeadLock Zombie Shooter, follow these steps:
 
 1. Clone or download the repository to your local machine.
-2. Navigate to the "DEADLOCK Zombie Shooter" folder.
+2. Navigate to the "**DEADLOCK Zombie Shooter**" folder.
 
 ## How to Play
 
-1. Launch the game by running "DEADLOCK Zombie Shooter.exe".
+1. Launch the game by running "**DEADLOCK Zombie Shooter.exe**".
 2. Input your name and press Enter.
 3. In the main menu, select "Play" to proceed.
 4. Choose a level from the level selection page (Levels 1, 2, or 3).
@@ -67,7 +66,7 @@ To play DeadLock Zombie Shooter, follow these steps:
 ## Demo Video
 
 Check out the gameplay video of DeadLock Zombie Shooter on YouTube:
-[![DeadLock Zombie Shooter Gameplay](https://img.youtube.com/vi/bjpfGj7gt4M/0.jpg)](https://youtu.be/bjpfGj7gt4M?si=iQS2TpyjV1-gTzOz)
+[![DeadLock Zombie Shooter Gameplay](DEADLOCK%20Zombie%20Shooter%20iGraphics%20Project.png)](https://youtu.be/bjpfGj7gt4M?si=iQS2TpyjV1-gTzOz)
 
 ## Contact Us
 
@@ -78,7 +77,6 @@ Have questions or feedback? Feel free to reach out to us:
 - Harique Rahman Jaif
   - LinkedIn: [Harique Rahman Jaif LinkedIn](https://www.linkedin.com/in/harique-rahman-jaif/)
 - Julker Nayeen Karim
-  - LinkedIn: [Julker Nayeen Karim LinkedIn](#)  <!-- You can add the LinkedIn profile link here -->
-
+  - LinkedIn: [Julker Nayeen Karim LinkedIn](#) 
 We appreciate your support and hope you enjoy playing DeadLock Zombie Shooter!
 
