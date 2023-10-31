@@ -50,7 +50,7 @@ Your objective is to protect humanity by fending off waves of zombies. As the pr
 
 To play DeadLock Zombie Shooter, follow these steps:
 
-1. Clone or download the repository to your local machine.
+1. Clone or [download](https://github.com/alaminXpro/DeadLock-Zombie-Shooter/archive/refs/heads/main.zip) the repository to your local machine.
 2. Navigate to the "**DEADLOCK Zombie Shooter**" folder.
 
 ## How to Play
