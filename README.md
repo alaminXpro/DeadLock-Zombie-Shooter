@@ -66,7 +66,7 @@ To play DeadLock Zombie Shooter, follow these steps:
 ## Demo Video
 
 Check out the gameplay video of DeadLock Zombie Shooter on YouTube:
-[![DeadLock Zombie Shooter Gameplay](DEADLOCK%20Zombie%20Shooter%20iGraphics%20Project.png)](https://youtu.be/bjpfGj7gt4M?si=iQS2TpyjV1-gTzOz)
+[![DeadLock Zombie Shooter Gameplay](https://img.youtube.com/vi/bjpfGj7gt4M/maxresdefault.jpg)](https://www.youtube.com/watch?v=bjpfGj7gt4M)
 
 ## Contact Us
 
